@@ -54,7 +54,7 @@
 
 @media screen and (orientation: portrait){
     .res{
-        margin-left: 60px;
+        margin-left: 50px;
         width: 20vw;
         height: 300px;
     }
